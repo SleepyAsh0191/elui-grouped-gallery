@@ -36,3 +36,7 @@ export const contentData = [
     }
 ]
 ```
+
+其中，`name` 为分组名，`content` 为分组内容，`text` 为文本内容，`type` 为内容类型，可以是`audio`、`video`、`pic`，`link` 为内容链接。
+
+此外，您也可以添加 `comment` 作为备注显示在图片下方。
